@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "devRadar",
+    "slug": "devradar",
+    "privacy": "unlisted",
+    "sdkVersion": "36.0.0",
+    "platforms": ["android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#ffd1dc"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffd1dc"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.testeeee.gabdevradar",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBe7ZnoHh1v3k84op45kgHP1IacwyqZ0b4"
+        }
+      }
+    }
+  }
+}
