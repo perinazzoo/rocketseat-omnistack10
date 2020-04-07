@@ -4,11 +4,14 @@ devRadar
 <blockquote align="center">
 :dart: App desenvolvido para procurar devs no mapa
 </blockquote>
+
 <img src="./.github/1.png" />
 
 ## :mag: Sobre o projeto
 
 Este é um App onde você pode adicionar seu perfil do Github e suas tecnologias e então as pessoas poderão buscar profissionais na sua região, baseado na tecnologia desejada.
+
+Você pode acessar este projeto pelo link: https://omnistack10gab.netlify.com
 
 ## :satellite: Tecnologias utilizadas
 
