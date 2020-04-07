@@ -4,7 +4,7 @@ devRadar
 <blockquote align="center">
 :dart: App desenvolvido para procurar devs no mapa
 </blockquote>
-<img src="./.github/devradar.png" />
+<img src="./.github/1.png" />
 
 ## :mag: Sobre o projeto
 
